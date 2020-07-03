@@ -8,6 +8,7 @@ namespace ReadLogs
     {
         public string linha { get; set; }
         public string dataRegistro { get; set; }
+        
         public Linha(string linha)
         {
             try
@@ -20,6 +21,7 @@ namespace ReadLogs
                 Console.WriteLine(ex.Message);
             }
         }
+        
         public string RetornaLinha(string linha)
         {
             int contador = 0;

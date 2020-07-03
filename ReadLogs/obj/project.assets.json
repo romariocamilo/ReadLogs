@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Romario PRO\\source\\repos\\ReadLogs\\ReadLogs\\ReadLogs.csproj",
+      "projectUniqueName": "C:\\ReadLogs\\ReadLogs\\ReadLogs.csproj",
       "projectName": "ReadLogs",
-      "projectPath": "C:\\Users\\Romario PRO\\source\\repos\\ReadLogs\\ReadLogs\\ReadLogs.csproj",
+      "projectPath": "C:\\ReadLogs\\ReadLogs\\ReadLogs.csproj",
       "packagesPath": "C:\\Users\\Romario PRO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Romario PRO\\source\\repos\\ReadLogs\\ReadLogs\\obj\\",
+      "outputPath": "C:\\ReadLogs\\ReadLogs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Romario PRO\\AppData\\Roaming\\NuGet\\NuGet.Config",

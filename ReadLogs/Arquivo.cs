@@ -10,6 +10,7 @@ namespace ReadLogs
         public string nomeArquivo { get; set; }
         public string caminho { get; set; }
         public StreamWriter novoArquivo { get; set; }
+        
         public Arquivo(string data, string pastaDestino)
         {
             if (Directory.Exists(pastaDestino))

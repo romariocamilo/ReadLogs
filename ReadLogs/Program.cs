@@ -100,6 +100,7 @@ namespace ReadLogs
 
                 }
             }
+            
             catch (Exception ex)
             {
                 if (ex.Message.Contains("Could not find file"))
