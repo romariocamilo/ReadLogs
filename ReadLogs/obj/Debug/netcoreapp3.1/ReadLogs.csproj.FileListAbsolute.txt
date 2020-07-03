@@ -1,0 +1,13 @@
+C:\Users\Romario PRO\source\repos\ReadLogs\ReadLogs\bin\Debug\netcoreapp3.1\ReadLogs.exe
+C:\Users\Romario PRO\source\repos\ReadLogs\ReadLogs\bin\Debug\netcoreapp3.1\ReadLogs.deps.json
+C:\Users\Romario PRO\source\repos\ReadLogs\ReadLogs\bin\Debug\netcoreapp3.1\ReadLogs.runtimeconfig.json
+C:\Users\Romario PRO\source\repos\ReadLogs\ReadLogs\bin\Debug\netcoreapp3.1\ReadLogs.runtimeconfig.dev.json
+C:\Users\Romario PRO\source\repos\ReadLogs\ReadLogs\bin\Debug\netcoreapp3.1\ReadLogs.dll
+C:\Users\Romario PRO\source\repos\ReadLogs\ReadLogs\bin\Debug\netcoreapp3.1\ReadLogs.pdb
+C:\Users\Romario PRO\source\repos\ReadLogs\ReadLogs\obj\Debug\netcoreapp3.1\ReadLogs.csproj.CoreCompileInputs.cache
+C:\Users\Romario PRO\source\repos\ReadLogs\ReadLogs\obj\Debug\netcoreapp3.1\ReadLogs.AssemblyInfoInputs.cache
+C:\Users\Romario PRO\source\repos\ReadLogs\ReadLogs\obj\Debug\netcoreapp3.1\ReadLogs.AssemblyInfo.cs
+C:\Users\Romario PRO\source\repos\ReadLogs\ReadLogs\obj\Debug\netcoreapp3.1\ReadLogs.dll
+C:\Users\Romario PRO\source\repos\ReadLogs\ReadLogs\obj\Debug\netcoreapp3.1\ReadLogs.pdb
+C:\Users\Romario PRO\source\repos\ReadLogs\ReadLogs\obj\Debug\netcoreapp3.1\ReadLogs.genruntimeconfig.cache
+C:\Users\Romario PRO\source\repos\ReadLogs\ReadLogs\obj\Debug\netcoreapp3.1\ReadLogs.csprojAssemblyReference.cache

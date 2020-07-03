@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Romario PRO\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Romario PRO\\.nuget\\packages"
+    ]
+  }
+}
